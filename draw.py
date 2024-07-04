@@ -29,7 +29,7 @@ def addCommit(date):
         salt = random.randint(1000, 9999)
         subprocess.run(f'echo "{date} Salt : {salt}" > foo.txt', shell=True, check=True)
         subprocess.run('git add .', shell=True, check=True)
-        subprocess.run(f'git commit --quiet --date "{git_date}" -m "Commit To Draw My Name"', shell=True, check=True)
+        subprocess.run(f'git commit --quiet --date "{git_date}" -m "Commit To Draw My Name - {date}"', shell=True, check=True)
 
         print(f"Commit added on {date}")
     except Exception as e:
