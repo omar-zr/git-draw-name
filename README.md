@@ -57,7 +57,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Notes:
 
-- **Adjustments**: Make sure to adjust the instructions and example code in the README file according to the specific implementation of your `draw_name.py` script.
+- **Adjustments**: Make sure to adjust the instructions and example code in the README file according to the specific implementation of your `draw.py` script.
 
 - **License**: Ensure to include a `LICENSE` file in your repository that specifies the terms under which others can use, modify, and distribute your project.
 
