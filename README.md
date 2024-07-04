@@ -1,4 +1,3 @@
-Creating a README file for your GitHub repository to explain your tool is a great idea. Below is an example of a README file that provides instructions on how to use your tool for drawing names on Git activity, including setting the name variable and specifying the starting date (first Sunday of the year):
 
 ---
 
